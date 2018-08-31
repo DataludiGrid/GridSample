@@ -1,0 +1,1 @@
+include ':app', ':charting-release', ':common-release', ':grid-release'
